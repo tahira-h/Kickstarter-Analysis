@@ -20,8 +20,8 @@ Analysis
 I performed my analysis by using various coding methods throughout the analysis process. To begin the process of my analysis, four steps were completed in Microsoft Excel. As shown in the image below, the project was named, a folder was created titled “resources” to hold tables/charts created in the analysis process, a new column "Years" was created, and the YEAR() function was used in the Years column to extract data from a previously created column "Date Created Conversion". 
 
 Open the file containing the "Date Created Conversion".
-    C:\Users\TAHIRA\OneDrive\Pictures\Screenshots
-   Close the file.
+
+Close the file.
 
  
 
