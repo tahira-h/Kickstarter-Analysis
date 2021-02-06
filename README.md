@@ -17,35 +17,17 @@ ANALYSIS AND CHALLENGES
 
 Analysis 
 
-I performed my analysis by using various coding methods throughout the analysis process. To begin the process of my analysis, four steps were completed in Microsoft Excel. As shown in the image below, the project was named, a folder was created titled “resources” to hold tables/charts created in the analysis process, a new column "Years" was created, and the YEAR() function was used in the Years column to extract data from a previously created column "Date Created Conversion". 
-
-Open the file containing the "Date Created Conversion".
-
-Close the file.
-
- 
+I performed my analysis by using various coding methods throughout the analysis process. To begin the process of my analysis, four steps were completed in Microsoft Excel. The project was named, a folder was created titled “resources” to hold tables/charts created in the analysis process, a new column "Years" was created, and the YEAR() function was used in the Years column to extract data from a previously created column "Date Created Conversion". 
 
 To view how the YEAR() function is used in Excel, view the link below: 
 
 https://support.microsoft.com/en-us/office/year-function-c64f017a-1354-490d-981f-578e8ec8d3b9?ui=en-us&rs=en-us&ad=us 
 
- 
-
- 
-
-A pivot table was created in a new worksheet from data used in a previous worksheet named "Kickstarter". This new worksheet will now be viewed as "Theater Outcomes and Launch Date." A pivot table was focused on "Parent Category" and "Years". Columns created in the table were focused on "successful", "failed", and "canceled" plays. Rows created in the table were focused on the months the theaters succeeded, failed, and were canceled. Instruction on how to complete these steps are included below: 
-
- 
+A pivot table was created in a new worksheet from data used in a previous worksheet named "Kickstarter". This new worksheet will now be viewed as "Theater Outcomes and Launch Date." A pivot table was focused on "Parent Category" and "Years". Columns created in the table were focused on "successful", "failed", and "canceled" plays. Rows created in the table were focused on the months the theaters succeeded, failed, and were canceled.
 
 My pivot table appeared like the image shown below: 
 
- 
-
- 
-
- 
-
- 
+https://courses.bootcampspot.com/courses/524/files/450147/preview
 
 The "Row Labels" column show in the table shows twelve months of a year. This column was created by grouping the column to show the months of the year only, excluding days years. The website used to explain how to group columns is listed below: 
 
@@ -53,47 +35,25 @@ https://support.microsoft.com/en-us/office/group-or-ungroup-data-in-a-pivottable
 
 The "Parent Category" shown in the table is filtered to show data for "theater", and the columns are sorted from highest to lowest data outcomes as shown in the table below: 
 
- 
+ https://courses.bootcampspot.com/courses/524/files/450148/preview
 
 A line chart was created from the pivot table. This table was created to provide an image of the relationship between the outcome and the launch month by clicking onto the pivot table, clicking CTRL+1, and choosing the line chart as the preferred chart. Afterwards, a title is added to the chart “Theater Outcomes Based on Launch Date” as shown in the image below: 
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
+ https://courses.bootcampspot.com/courses/524/files/450149/preview
 
 Once creating a line chart and providing a title. The line chart must be saved into the resources folder as a PNG file. The first part of my analysis is now completed.  
 
-In contrast, the second part of the analysis began with creating a new sheet labeled "Outcomes Based on Goals". This sheet contains eight columns: Goal, Number Successful, Number Failed, Number Canceled, Total Projects, Percentage Successful, Percentage Failed, and Percentage Canceled. As shown below: 
-
- 
-
- 
-
- 
-
- 
+In contrast, the second part of the analysis began with creating a new sheet labeled "Outcomes Based on Goals". This sheet contains eight columns: Goal, Number Successful, Number Failed, Number Canceled, Total Projects, Percentage Successful, Percentage Failed, and Percentage Canceled. 
 
 The "Goal" column would contain dollar-amount ranges to provide projects analyzed to be reviewed as grouped based upon their goal amount. An example is shown below: 
 
- 
+https://courses.bootcampspot.com/courses/524/files/450150/preview 
 
 The "Number Successful", "Number Failed", and "Number Canceled" columns will provide the COUNTIFS() function to provide data showing how many plays were successful, failed or canceled in accordance with the “Goal” column. The link below provides the equation to find a COUNTIFS() function. 
 
 https://support.microsoft.com/en-us/office/countifs-function-dda3dc6e-f74e-4aee-88bc-aa8c2a866842?ui=en-us&rs=en-us&ad=us  
 
- 
-
- 
-
-In addition, the "Total Projects" column provided the sum of the "Number Successful", "Number Failed" and "Number Canceled" columns by using the sum() function. Once the "Total Projects" column was completed, a line Chart was created titled "Outcomes Based on Goal". In this line chart the x-axis provides the relationship between goal-amount ranges, and the y-axis provides the percentage of successful, failed, and canceled projects. After the line chart completion, the chart was saved into the resources folder as a PNG file. The line chart is provided below: 
+In addition, the "Total Projects" column provided the sum of the "Number Successful", "Number Failed" and "Number Canceled" columns by using the sum() function. Once the "Total Projects" column was completed, a line Chart was created titled "Outcomes Based on Goal". In this line chart the x-axis provides the relationship between goal-amount ranges, and the y-axis provides the percentage of successful, failed, and canceled projects. After the line chart completion, the chart was saved into the resources folder as a PNG file. The line chart is sprovided below: 
 
  
 
