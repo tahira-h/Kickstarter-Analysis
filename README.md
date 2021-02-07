@@ -34,8 +34,7 @@ The "Parent Category" shown in the table is filtered to show data for "theater",
 Open the file containing the Launch Date.
 Outcomes Based on Launch Date.
 
-![Outcomes_vs_Goals](./Outcomes_vs_Goals.png)
-
+![Theater Outcomes Based on Launch Date](./Theater_Outcomes_vs_Launch.png)
 
 Close the file. 
 
@@ -47,8 +46,14 @@ The "Number Successful", "Number Failed", and "Number Canceled" columns will pro
 
 https://support.microsoft.com/en-us/office/countifs-function-dda3dc6e-f74e-4aee-88bc-aa8c2a866842?ui=en-us&rs=en-us&ad=us  
 
-In addition, the "Total Projects" column provided the sum of the "Number Successful", "Number Failed" and "Number Canceled" columns by using the sum() function. Once the "Total Projects" column was completed, a line Chart was created titled "Outcomes Based on Goal". In this line chart the x-axis provides the relationship between goal-amount ranges, and the y-axis provides the percentage of successful, failed, and canceled projects. After the line chart completion, the chart was saved into the resources folder as a PNG file. The line chart is sprovided below: 
+In addition, the "Total Projects" column provided the sum of the "Number Successful", "Number Failed" and "Number Canceled" columns by using the sum() function. Once the "Total Projects" column was completed, a line Chart was created titled "Outcomes Based on Goal". In this line chart the x-axis provides the relationship between goal-amount ranges, and the y-axis provides the percentage of successful, failed, and canceled projects. After the line chart completion, the chart was saved into the resources folder as a PNG file. The line chart is provided below: 
  
+ Open the file containing the Outcomes Based on Goal.
+Outcomes Based on Goal.
+
+![Outcomes Based on Goal](./Outcomes_vs_Goals.png)
+
+Close the file. 
 
 Challenges or Difficulties Encountered 
 
