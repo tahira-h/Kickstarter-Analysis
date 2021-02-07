@@ -34,6 +34,7 @@ The "Parent Category" shown in the table is filtered to show data for "theater",
 Open the file containing the Launch Date.
 Outcomes Based on Launch Date.
 
+![Outcomes_vs_Goals](./Outcomes_vs_Goals.png)
 
 
 Close the file. 
