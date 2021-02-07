@@ -39,7 +39,12 @@ The "Parent Category" shown in the table is filtered to show data for "theater",
 
 A line chart was created from the pivot table. This table was created to provide an image of the relationship between the outcome and the launch month by clicking onto the pivot table, clicking CTRL+1, and choosing the line chart as the preferred chart. Afterwards, a title is added to the chart “Theater Outcomes Based on Launch Date” as shown in the image below: 
 
- https://courses.bootcampspot.com/courses/524/files/450149/preview
+Open the file containing the Launch Date.
+Outcomes Based on Launch Date.
+
+    ![Outcomes, The Launch Date](/Analysis Projects/Crowdfunding Analysis/Resources/Theater_Outcomes_vs_Launch.png )
+
+Close the file. 
 
 Once creating a line chart and providing a title. The line chart must be saved into the resources folder as a PNG file. The first part of my analysis is now completed.  
 
