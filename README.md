@@ -33,9 +33,7 @@ The "Parent Category" shown in the table is filtered to show data for "theater",
 
 Open the file containing the Launch Date.
 Outcomes Based on Launch Date.
-
 ![Theater Outcomes Based on Launch Date](./Theater_Outcomes_vs_Launch.png)
-
 Close the file. 
 
 Once creating a line chart and providing a title. The line chart must be saved into the resources folder as a PNG file. The first part of my analysis is now completed.  
@@ -50,9 +48,7 @@ In addition, the "Total Projects" column provided the sum of the "Number Success
  
  Open the file containing the Outcomes Based on Goal.
 Outcomes Based on Goal.
-
 ![Outcomes Based on Goal](./Outcomes_vs_Goals.png)
-
 Close the file. 
 
 Challenges or Difficulties Encountered 
