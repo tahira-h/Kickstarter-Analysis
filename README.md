@@ -27,6 +27,7 @@ The "Row Labels" column show in the table shows twelve months of a year. This co
 https://support.microsoft.com/en-us/office/group-or-ungroup-data-in-a-pivottable-c9d1ddd0-6580-47d1-82bc-c84a5a340725?ui=en-us&rs=en-us&ad=us 
 
 The "Parent Category" shown in the table was filtered to show data for "theater", and the columns were sorted from highest to lowest data outcomes. Additionally, a line chart was created from the pivot table. This table was created to provide an image of the relationship between the outcome and the launch month by clicking onto the pivot table, clicking CTRL+1, and choosing the line chart as the preferred chart. Afterwards, a title was added to the chart “Theater Outcomes Based on Launch Date” as shown in the image below: 
+
 Open the file containing the Launch Date.
 Outcomes Based on Launch Date.
 ![Theater Outcomes Based on Launch Date](./Theater_Outcomes_vs_Launch.png)
@@ -40,6 +41,7 @@ The "Number Successful", "Number Failed", and "Number Canceled" columns would pr
 https://support.microsoft.com/en-us/office/countifs-function-dda3dc6e-f74e-4aee-88bc-aa8c2a866842?ui=en-us&rs=en-us&ad=us  
 
 In addition, the "Total Projects" column provided the sum of the "Number Successful", "Number Failed" and "Number Canceled" columns by using the sum() function. Once the "Total Projects" column was completed, a line Chart was created titled "Outcomes Based on Goal". In this line chart the x-axis provides the relationship between goal-amount ranges, and the y-axis provides the percentage of successful, failed, and canceled projects. After the line chart completion, the chart was saved into the resources folder as a PNG file. The line chart is provided below: 
+
 Open the file containing the Outcomes Based on Goal.
 Outcomes Based on Goal.
 ![Outcomes Based on Goal](./Outcomes_vs_Goals.png)
@@ -51,9 +53,7 @@ There were three challenges that I encountered while completing this analysis: s
 
 Solving the COUNTIFS() function was challenging because I misplaced information to collect data. To solve the function, I signed into Slack to receive help with a screenshot attached to understand how to improve my equation. In contrast, solving the percentage equation was challenging. I divided two cells by each other and divided the answer by 100. For example, divide cells A1 and B1 and divide the answer by 100. Additionally, highlight the entire column and turned the decimals into a percentage by clicking CTRL+1, and choose percentage with 0 decimals. Solving the percentage equation incorrectly may have altered my results to provide to Louise. 
 
-Another challenge that I faced was matching the last Line Chart with the image in the module. My chart looked different than the chart in the module, and I was unsure if it was correct or not. In conclusion my flaws were, solving equations, matching charts, and knowing if I found the correct data by the equations that I made. 
-
- 
+Another challenge that I faced was matching the last Line Chart with the image in the module. My chart looked different than the chart in the module, and I was unsure if it was correct or not. In conclusion my flaws were, solving equations, matching charts, and knowing if I found the correct data by the equations that I made.  
 
 RESULTS 
 
