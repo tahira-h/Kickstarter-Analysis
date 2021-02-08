@@ -28,8 +28,10 @@ https://support.microsoft.com/en-us/office/group-or-ungroup-data-in-a-pivottable
 
 The "Parent Category" shown in the table was filtered to show data for "theater", and the columns were sorted from highest to lowest data outcomes. Additionally, a line chart was created from the pivot table. This table was created to provide an image of the relationship between the outcome and the launch month by clicking onto the pivot table, clicking CTRL+1, and choosing the line chart as the preferred chart. Afterwards, a title was added to the chart “Theater Outcomes Based on Launch Date” as shown in the image below: 
 
+Open the file containing Outcomes Based on Launch Date.
 Outcomes Based on Launch Date.
 ![Theater Outcomes Based on Launch Date](./Theater_Outcomes_vs_Launch.png)
+Close the file.
 
 Once creating a line chart and providing a title. The line chart must be saved into the resources folder as a PNG file. The first part of my analysis is now completed.  
 
